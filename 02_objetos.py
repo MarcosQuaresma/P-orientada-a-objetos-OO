@@ -62,3 +62,4 @@ game5.nota = 8.5
 
 print("------> Dados do Jogo <-------")
 print(f"Nome do jogo: {game5.nome}\nAno de lançamento: {game5.dataLancamento}")
+
